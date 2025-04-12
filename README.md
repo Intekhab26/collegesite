@@ -14,8 +14,7 @@ HTML5
 
 CSS3
 
-JavaScript (Optional, if used for interactivity)
-
+JavaScript
 Responsive Design for all devices
 
 
